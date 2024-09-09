@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+
+form, input, button{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5x;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 1em;
+    margin-left: 100px;
+    color: black rgb(71, 14, 119);
+}
+label{
+    font-weight: bold;
+}
